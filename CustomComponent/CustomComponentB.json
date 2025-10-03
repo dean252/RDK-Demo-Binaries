@@ -1,0 +1,9 @@
+{
+ "locator":"libWPEFrameworkCustomComponentB.so",
+ "classname":"CustomComponentB",
+ "precondition":[
+  "Platform"
+ ],
+ "callsign":"org.rdk.CustomComponentB",
+ "autostart":false
+}
